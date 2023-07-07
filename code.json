@@ -42,6 +42,17 @@
 "Created": "2023-06-30T19:49:40.3490996Z",
 "Availability": 1,
 "CloudProvider": 1
+},
+  {
+"Name":"IR6",
+"UniqueId": "c760c65b-3611-4f37-bceb-a86ad0c28db2",
+"VpnType": 5,
+"EncryptedBase64": "ZDViM2M3ODEtMWNmMC00MzAwLWJlMGUtYzAwNzRjNmViNmM3QHNvcy5oaWJpdGNoLmFzaWE6MTk0MTU/c2VjdXJpdHk9dGxzJmVuY3J5cHRpb249bm9uZSZhbHBuPWgyLGh0dHAvMS4xJmhlYWRlclR5cGU9bm9uZSZ0eXBlPXRjcCNIZy10a2d6bTZ5eg==",
+"JsonCode": null,
+"CountryIp": 0,
+"Created": "2023-06-30T19:49:40.3490996Z",
+"Availability": 1,
+"CloudProvider": 1
 }
   
 ]

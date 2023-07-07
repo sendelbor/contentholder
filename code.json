@@ -31,5 +31,17 @@
 "Created": "2023-06-30T19:49:40.3490996Z",
 "Availability": 1,
 "CloudProvider": 1
+},
+  {
+"Name":"H6",
+"UniqueId": "8ee6420f-d6d6-4fd0-9182-e290998c9627",
+"VpnType": 1,
+"EncryptedBase64": "eyJhZGQiOiI5NS4xNzkuMjUxLjEzNyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyMzQ2MmZmMC0xYTRkLTExZWUtYjgzMi0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6Itqp2KfZhtin2YQgOiBAVjJyYXlOR3ZwbmkiLCJzbmkiOiJ1czIub2NlaXMubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+"JsonCode": null,
+"CountryIp": 0,
+"Created": "2023-06-30T19:49:40.3490996Z",
+"Availability": 1,
+"CloudProvider": 1
 }
+  
 ]

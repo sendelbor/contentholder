@@ -1,16 +1,16 @@
 {
-    "pub":  "TUlJQm9qQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FZOEFNSUlCaWdLQ0FZRUFwVUJ6NjBzNlF2Z29rMXNJdkJtdjNPeTFVVDRLMDlPdlpsZi9uZUN5MHcwam9NV0MvMXNPMTUyRkszcnBJVSt3eHRHaWQ4NitVeUpIYm0wSzM4MVhMUmdXdTFIY2hDUHFmZ2Fwc2dTdnhJYlk5cXJpK3l0Vk1CSkxiZjhCTXVVa2VWZGNod1ZoK0w2N0JBbXhDMyt5VVIzSlFyVEhXTTd2NlQ4N2NEbVBXOWxoZzcvd1NzZ29VcHJOeVg3UEd3TERuamw4amRVUXJZdExTMmp2QkFhU2FxbDJEUnpjMG90cjZ2bE9WQXlPUFE5UW9pS0Q2NnhpaW8yV0xEL1k2L0JpMlI3SFk1TFJ1NTNtQXVDMnJQRVZXblRqMUZrQ1VMcFBsaWpmWHFENHpJQk1vVE04U1k0ZGdRZUF2SkhobFpBU3o3UEYvWVFSKzZkLzFjQk96WDN2aGw2NVQxS2JBZlZmZ1NwenVJaFZYckhQeGIyYi9RUytwYnRGVE92VXFnUHR6S1VOZ0lKTllPZmlUb1JvZUszSXI0UDFtK3RRWVRBbEU2YjZ4WXNsQzFrNTZtVy9OSWFma2FXNHhmQ21SNXRpREVtbEIzdDAyYk16T2NqMmd3N2xZd1piaDN2bUZUTU5Fbnk3RGo2bk9OUmgvS1FRWkllYUJhYmRvendSOTFJUEFnTUJBQUU9",
-    "domain_enc":  "8QE2z0rU+4SnepnWjxg+OQ1IwTUPGRvIdqSk88VhxqO59y+1lWdsgVs9r7+QTRwWhw1GaMaKlR3IddvmBKAKM9PRw2xoumH9/g/vznOK",
-    "nonce":  "1eHRERQboy/tIXQC",
-    "tag":  "dvGWXO3if7tgyY59dGD40Q==",
-    "schema_version":  3,
-    "issued_at_epoch_seconds":  1789421728,
-    "expires_at_epoch_seconds":  1852493728,
-    "sequence":  4,
-    "bootstrap_sources":  [
-                              "https://raw.githubusercontent.com/sendelbor/contentholder/main/bootstrap-v3.json",
-                              "https://bootstrap.rocketplus.site/bootstrap-v3.json"
-                          ],
-    "key_id":  "bootstrap-root-2026-01",
-    "signature":  "MEYCIQCyDSiAILKC9Qw0B+YutAuQCZrTondnVMzZFHJuRdSMhAIhAI86mkZVIFPa2VmBtF/1MJ9CclUfNDkhW99VEySZHE9I"
+  "pub": "TUlJQm9qQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FZOEFNSUlCaWdLQ0FZRUFwVUJ6NjBzNlF2Z29rMXNJdkJtdjNPeTFVVDRLMDlPdlpsZi9uZUN5MHcwam9NV0MvMXNPMTUyRkszcnBJVSt3eHRHaWQ4NitVeUpIYm0wSzM4MVhMUmdXdTFIY2hDUHFmZ2Fwc2dTdnhJYlk5cXJpK3l0Vk1CSkxiZjhCTXVVa2VWZGNod1ZoK0w2N0JBbXhDMyt5VVIzSlFyVEhXTTd2NlQ4N2NEbVBXOWxoZzcvd1NzZ29VcHJOeVg3UEd3TERuamw4amRVUXJZdExTMmp2QkFhU2FxbDJEUnpjMG90cjZ2bE9WQXlPUFE5UW9pS0Q2NnhpaW8yV0xEL1k2L0JpMlI3SFk1TFJ1NTNtQXVDMnJQRVZXblRqMUZrQ1VMcFBsaWpmWHFENHpJQk1vVE04U1k0ZGdRZUF2SkhobFpBU3o3UEYvWVFSKzZkLzFjQk96WDN2aGw2NVQxS2JBZlZmZ1NwenVJaFZYckhQeGIyYi9RUytwYnRGVE92VXFnUHR6S1VOZ0lKTllPZmlUb1JvZUszSXI0UDFtK3RRWVRBbEU2YjZ4WXNsQzFrNTZtVy9OSWFma2FXNHhmQ21SNXRpREVtbEIzdDAyYk16T2NqMmd3N2xZd1piaDN2bUZUTU5Fbnk3RGo2bk9OUmgvS1FRWkllYUJhYmRvendSOTFJUEFnTUJBQUU9",
+  "domain_enc": "VXSWByvaX4YVkvcwQqL/wTXq/4xy19l7O6OS7HMT1fighHdf1sBus\u002BNkCLSD8h4f2f/QL35ghIgzN2OU8rUoNPJJ\u002BOjaYNxWN97Pax8E",
+  "nonce": "LtgwTbJDriwT4pnx",
+  "tag": "0Xv2R\u002Bc04\u002BN1P4qzsxIviw==",
+  "schema_version": 3,
+  "issued_at_epoch_seconds": 1789560065,
+  "expires_at_epoch_seconds": 1852632065,
+  "sequence": 5,
+  "bootstrap_sources": [
+    "https://raw.githubusercontent.com/sendelbor/contentholder/main/bootstrap-v3.json",
+    "https://bootstrap.rocketplus.site/bootstrap-v3.json"
+  ],
+  "key_id": "bootstrap-root-2026-01",
+  "signature": "MEUCIBvQOoB/zX0JW7RkiWdhhJJupGfJR502tO4XzyRUTD5SAiEAx9kMpfr82M66OVNJHVVJExy/BEQpuin1uDPZHgiWlXk="
 }
